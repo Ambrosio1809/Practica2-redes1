@@ -22,8 +22,9 @@
     - Google Cloud Plataform (GCP)
 ---------------------------------------------------------------------------
 ### DESCRIPCION DE LA PRACTICA
-Creacion de una red VPN implmentado en un servicio en la nube :rocket:, logrando conectar varias computadoras :computer: a dicha red pudiendose comunicar las unas a las otras por medio de internet.
+Configuracion y administracion de dispositivos de una infraestructura de red para una compañía, realizando el diseño de topología que será utilizado como infraestructura de red, configurandose para proveer comunicación de acuerdo a las necesidades que se indican.
+La compañía cuenta con 3 departamentos: informática, contabilidad y ventas. Se debe proveer comunicación entre los usuarios del mismo departamento y con su servidor web, por ejemplo, los usuarios del departamento de ventas no se podrán comunicar con ningún otro departamento solamente con su departamento
 
    <p>
-    <img src="./red.jpg" title="hover text">
+    <img src="./Practica2/erick/vlan.png" title="hover text">
    </p>
