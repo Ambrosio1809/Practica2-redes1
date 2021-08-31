@@ -28,3 +28,14 @@ La compañía cuenta con 3 departamentos: informática, contabilidad y ventas. S
    <p align="center">
     <img src="./Practica2/erick/vlan.png" title="hover text">
    </p>
+
+- REQUISITOS
+    - Garantizar que los equipos del departamento de ventas puedan comunicarse únicamente con el sitio web de ventas y otros equipos del propio departamento.
+    - Garantizar que los equipos del departamento de contabilidad puedan comunicarse únicamente con el sitio web de contabilidad y otros equipos del propio departamento.
+    - Garantizar que los equipos del departamento de informática puedan comunicarse únicamente con el sitio web de informática y otros equipos del propio departamento.
+    - Entre el departamento de contabilidad, informática y ventas no debe haber comunicación.
+
+- TOPOLOGIAS
+ <p align="center">
+    <img src="./Practica2/erick/topolo.png" title="hover text">
+   </p>
