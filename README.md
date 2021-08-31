@@ -121,6 +121,8 @@ implementaran dispositivos Cloud en *GNS3*.
             </p>
             
             esta topologia modificada ahora tendra 4 switch capa 2 y 3 cloud, conservando de la topologia original las dos maquinas la virtual y la VPCS.
+        
+    4. Como siguiente paso sera la configuracion de la topologia 2, como vimos en los pasos anteriore en la topologia 1a modificada se encuentra una cloud que hace referencia a la topologia 2, este nube es la que tenemos que configurara para logarar la conexion con nuestra topologia 2 que al igual que las anteriores se encuentra en la pc de un integrante del grupo.
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
 5. Instalación y configuración de los servidores web
