@@ -77,6 +77,41 @@ implementaran dispositivos Cloud en *GNS3*.
         ![vm gns3](./Practica2/erick/agregarvm.png)
 
 2. Configuración de las 2 topologías en GNS3
+    1. Para poder configurar las dos topologias en *GNS3* primero debemos de agregar los elementos necesarios para poder crearla, en este caso se utilizaron los elementos *VPCS, MAQUINA VIRTUAL LINUX, CLOUD, SWITCH CAPA 3.*
+        <p align="center">
+            <img src="./Practica2/erick/elementos.png" width="150" title="hover text">
+        </p>
+    
+    2. lo siguiente sera armar nuestra topologia 1, la cual esta conformada de tres partes, una topologia 1A, 1B y 1C, cada una esta conformada por una maquina del tipo *VPCS* y una *MAQUINA VIRTUAL CON SO LINUX*, como se muestra en las siguientes imagenes.
+         ![vm gns3](./Practica2/erick/topo1a.png)
+         ![vm gns3](./Practica2/erick/topo1b.png)
+         ![vm gns3](./Practica2/erick/topo1c.png)
+         
+         Las anteriores topologias tambien tienen elementos como los son los switch capa 2 y elementos cloud.
+
+    3. Para poder agregar nuestras maquinas virtuales a nuestro simulador de red debemos de realizar lo siguiente
+        - debemos ir nuevamente al apartado de edit y prefereces en gns3 
+            <p align="center">
+            <img src="./Practica2/erick/pestañagns3.png" width="300" title="hover text">
+            </p>
+        - luego iremos al partado de VIRTUALBOX en su sub item VirtualBox VMs y se seleccionara el boton de *NEW*
+            <p align="center">
+            <img src="./Practica2/erick/agregavmlinux.png" width="550" title="hover text">
+        </p>
+
+        - Luego de lo anterior aparecera la siguiente pestaña donde debemos de dar *NEXT*
+            <p align="center">
+            <img src="./Practica2/erick/agregarvmlinux2.png" width="550" title="hover text">
+            </p>
+        - Siguiente paso aparecere la siguiente ventana, donde nos desplegara la lista de maquinas virtuales que tenemos disponibles en VIRTUALBOX, tal y como se muestran en las siguientes imagenes y solo debemos seleccionar la que nos interesa sea parte de nuestra simulacion, si en dado caso sean varias maquinas solo debemos repetir este paso las veces necesarias hasta agregar todas las que nos interezan.
+            <p align="center">
+            <img src="./Practica2/erick/agregarvmlinux3.png" width="550" title="hover text">
+            </p>
+
+            - maquinas virtuales disponibles
+            <p align="center">
+            <img src="./Practica2/erick/virtualbox.png" width="550" title="hover text">
+            </p>
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
 5. Instalación y configuración de los servidores web
