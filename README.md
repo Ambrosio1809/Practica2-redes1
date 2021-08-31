@@ -112,6 +112,7 @@ implementaran dispositivos Cloud en *GNS3*.
             <p align="center">
             <img src="./Practica2/erick/virtualbox.png" width="550" title="hover text">
             </p>
+        *NOTA*: PARA TODOS LOS PASOS ANTERIORES YA DEBEMOS CONTAR CON MAQUINAS VIRTUALES CREADAS EN NUESTRO VIRTUAL BOX.
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
 5. Instalación y configuración de los servidores web
