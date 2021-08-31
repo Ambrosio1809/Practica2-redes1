@@ -3,7 +3,7 @@
    <p align="center">
     <img src="./Practica2/erick/USAC.png" title="hover text">
    </p> 
-   
+
 ---------------------------------------------------------------------------
 ### INTEGRANTES
 - ERICK VALENZUELA
@@ -40,3 +40,17 @@ La compañía cuenta con 3 departamentos: informática, contabilidad y ventas. S
  <p align="center">
     <img src="./Practica2/erick/topolo.png" title="hover text">
    </p>
+
+---------------------------------------------------------------------------
+### PASOS PARA CREACION DE UNA RED VLAN
+
+La topología de la red serA simulada sobre máquinas físicas. Para ello SE
+implementaran dispositivos Cloud en GNS3.
+
+ <p align="center">
+    <img src="./Practica2/erick/gns3.png" title="hover text">
+   </p>
+
+1. 
+
+2. 
