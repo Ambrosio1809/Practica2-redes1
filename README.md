@@ -53,14 +53,23 @@ implementaran dispositivos Cloud en *GNS3*.
 </p>
 
 1. Configuración de la máquina virtual de *GNS3* para poder utilizar VirtualBox 
-    1. Para poder configurar *VIRTUAL BOX* de tal modo que se puede utilizar una maquina virtual en *GNS3* debemos descargar la VM de gns3 para el sistema operativo linux, esta maquina virutal de gns3 lo que permite es poder conectar gns3 con una maquina virtual que tenga el sistema cualquier sistema operativo y poder utlizarla en el software de simulacion y puede sar parte de nuestra topologia, para esto esta debera ser descargada en siguiente enlace:
+    1. Para poder configurar *VIRTUALBOX* de tal modo que se puede utilizar una maquina virtual en *GNS3* debemos descargar la VM de gns3 para el sistema operativo linux, esta maquina virutal de gns3 lo que permite es poder conectar gns3 con una maquina virtual que tenga el sistema cualquier sistema operativo y poder utlizarla en el software de simulacion y puede sar parte de nuestra topologia, para esto esta debera ser descargada en siguiente enlace:
         - [https://www.gns3.com/software/download-vm](https://www.gns3.com/software/download-vm)
 
         En el enlace se mostrar la siguiente pantalla y debemos descargar la que dice VirtualBox en  su version mas actualizada
 
         ![vm gns3](./Practica2/erick/gns3vm.png)
 
-    * 
+    2. Al descargar la VM de gns3 para *VIRTUALBOX* sera debera agregar la maquina virtual a este, simplmente dando doble click sobre el archivo descargado y luego en importar archivo.
+
+        <p align="center">
+            <img src="./Practica2/erick/archivovm.png" width="300" title="hover text">
+        </p>
+
+        ![vm gns3](./Practica2/erick/importar.png)
+
+    3. 
+
 
 2. Configuración de las 2 topologías en GNS3
 3. Configuración de las VPCs
