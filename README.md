@@ -87,7 +87,7 @@ implementaran dispositivos Cloud en *GNS3*.
          ![vm gns3](./Practica2/erick/topo1b.png)
          ![vm gns3](./Practica2/erick/topo1c.png)
          
-         Las anteriores topologias tambien tienen elementos como los son los switch capa 2 y elementos cloud.
+         Las anteriores topologias tambien tienen elementos como los son los switch capa 2 y elementos cloud, asi mismo cada una de estas topologias estara distribuida entre las maquinas fisicas de los integrantes del grupo una topologia por cada integrante del grupo.
 
     3. Para poder agregar nuestras maquinas virtuales a nuestro simulador de red debemos de realizar lo siguiente
         - debemos ir nuevamente al apartado de edit y prefereces en gns3 
@@ -112,7 +112,15 @@ implementaran dispositivos Cloud en *GNS3*.
             <p align="center">
             <img src="./Practica2/erick/virtualbox.png" width="550" title="hover text">
             </p>
-        *NOTA*: PARA TODOS LOS PASOS ANTERIORES YA DEBEMOS CONTAR CON MAQUINAS VIRTUALES CREADAS EN NUESTRO VIRTUAL BOX.
+
+            *NOTA*: PARA TODOS LOS PASOS ANTERIORES YA DEBEMOS CONTAR CON MAQUINAS VIRTUALES CREADAS EN NUESTRO VIRTUAL BOX.
+
+        - Como ultimo paso para lograr que toda nuestra topologia se comunique la topologia 1a sera modificada para para que las topologias que estan distribuidas en cada uno de los integrantes del grupo, quedando de la siguiente manera.
+            <p align="center">
+            <img src="./Practica2/erick/topo1amodifi.png" width="650" title="hover text">
+            </p>
+            
+            esta topologia modificada ahora tendra 4 switch capa 2 y 3 cloud, conservando de la topologia original las dos maquinas la virtual y la VPCS.
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
 5. Instalación y configuración de los servidores web
