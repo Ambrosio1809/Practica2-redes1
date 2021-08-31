@@ -48,16 +48,19 @@ La compañía cuenta con 3 departamentos: informática, contabilidad y ventas. S
 La topología de la red sera simulada sobre máquinas físicas. Para ello se
 implementaran dispositivos Cloud en *GNS3*.
 
- <p align="center">
+<p align="center">
     <img src="./Practica2/erick/gns3.png" title="hover text">
-   </p>
+</p>
 
-1. Configuración de la máquina virtual de *GNS3* para poder utilizar VirtualBox o
-VMWare
+1. Configuración de la máquina virtual de *GNS3* para poder utilizar VirtualBox 
     * Para poder configurar *VIRTUAL BOX* de tal modo que se puede utilizar una maquina virtual en *GNS3* debemos descargar la VM de gns3 para el sistema operativo linux, esta maquina virutal de gns3 lo que permite es poder conectar gns3 con una maquina virtual que tenga el sistema cualquier sistema operativo y poder utlizarla en el software de simulacion y puede sar parte de nuestra topologia, para esto esta debera ser descargada en siguiente enlace:
         - [https://www.gns3.com/software/download-vm](https://www.gns3.com/software/download-vm)
     * En el enlace se mostrar la siguiente pantalla y debemos descargar la que dice VirtualBox en  su version mas actualizada
-    
+
+    ![vm gns3](./Practica2/erick/gns3vm.png)
+
+    * 
+
 2. Configuración de las 2 topologías en GNS3
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
