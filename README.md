@@ -1,7 +1,7 @@
 # Practica 2 GRUPO 9
 
    <p align="center">
-    <img src="./Practica2/erick/USAC.png" title="hover text">
+    <img src="./Practica2/erick/encabezado.png" title="hover text">
    </p> 
 
 ---------------------------------------------------------------------------
