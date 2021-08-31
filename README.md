@@ -1,8 +1,8 @@
 # Practica 2 GRUPO 9
 
-## UNIVERSIDAD SAN CARLOS DE GUATEMALA
-## FACULTAD DE INGENIERIA 
-## REDES DE COMPUTADORAS 1
+   <p align="center">
+    <img src="./Practica2/erick/USAC.png" title="hover text">
+   </p> 
 ---------------------------------------------------------------------------
 ### INTEGRANTES
 - ERICK VALENZUELA
