@@ -1,4 +1,4 @@
-# Practica1 GRUPO 9
+# Practica 2 GRUPO 9
 
 ## UNIVERSIDAD SAN CARLOS DE GUATEMALA
 ## FACULTAD DE INGENIERIA 
@@ -12,9 +12,12 @@
 ---------------------------------------------------------------------------
 ### HERRAMIENTAS UTILIZADAS
 - Equipo.
-    - 4 computadores con sistema operativo libre *"windows 10 o ubuntu"*
+    - 4 computadores con sistema operativo libre *"windows"*
+    - 4 computadoras con sistema de virtualiacion *"virtual box"*
 - Software.
     - Administradors VPNs *"OpenVPN"*
+    - GNS3 instalados en los hosts físicos.
+    - Software de virtualización (VMWare o Virtual Box) instalados y configurados para uso con GNS3.
 - Plataforma
     - Google Cloud Plataform (GCP)
 ---------------------------------------------------------------------------
