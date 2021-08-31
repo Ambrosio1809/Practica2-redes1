@@ -73,7 +73,8 @@ implementaran dispositivos Cloud en *GNS3*.
             <img src="./Practica2/erick/pestañagns3.png" width="300" title="hover text">
         </p>
 
-
+    4. luego se nos abrira la siguiente ventana donde debemos ubicarnos en GNS3 VM, y en el apartado de *VIRTUALIZACION ENGINE* deberemos de seleccionar VIRTUALBOX, luego de esto en el apartado de SETTINGs le daremos en el boton de refresh para que gns3 obtenga nuestra maquina recien agregada.
+        ![vm gns3](./Practica2/erick/agregarvm.png)
 
 2. Configuración de las 2 topologías en GNS3
 3. Configuración de las VPCs
