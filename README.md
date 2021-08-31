@@ -68,7 +68,11 @@ implementaran dispositivos Cloud en *GNS3*.
 
         ![vm gns3](./Practica2/erick/importar.png)
 
-    3. 
+    3. Como siguiente paso debemos ir a gns3 a configurar nuestra vm virtual que acabamos de agregar a VIRTUALBOX, para esto ireremos a la pestaña de *EDIT* y luego en *PREFERENCES*
+        <p align="center">
+            <img src="./Practica2/erick/pestañagns3.png" width="300" title="hover text">
+        </p>
+
 
 
 2. Configuración de las 2 topologías en GNS3
