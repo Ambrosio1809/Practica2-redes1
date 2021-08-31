@@ -3,6 +3,7 @@
    <p align="center">
     <img src="./Practica2/erick/USAC.png" title="hover text">
    </p> 
+   
 ---------------------------------------------------------------------------
 ### INTEGRANTES
 - ERICK VALENZUELA
