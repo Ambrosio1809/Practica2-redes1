@@ -51,6 +51,12 @@ implementaran dispositivos Cloud en GNS3.
     <img src="./Practica2/erick/gns3.png" title="hover text">
    </p>
 
-1. 
-
-2. 
+1. Configuración de la máquina virtual de GNS3 para poder utilizar VirtualBox o
+VMWare
+2. Configuración de las 2 topologías en GNS3
+3. Configuración de las VPCs
+4. Configuración de las máquinas virtuales
+5. Instalación y configuración de los servidores web
+6. Pings entre los clientes y entre los servidores web de los departamentos
+correspondientes
+7. Visualización de la página web desde el Host Virtual Cliente
