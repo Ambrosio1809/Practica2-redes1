@@ -145,7 +145,7 @@ implementaran dispositivos Cloud en *GNS3*.
         </p>
     2. lo siguiente que se realiza en cada uno de las VPCs es asiganarles la ip destina a cada una estas, el procedimiento es exactamente el mismo para cada VPCS. tal y como se muestra en la imagen.
         <p align="center">
-        <img src="./Practica2/confvpc.png" width="550" title="hover text">
+        <img src="./Practica2/confvpc.PNG" width="550" title="hover text">
         </p>
 
         - comandos para configurar VPCs topologia 1a
