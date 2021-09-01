@@ -260,7 +260,38 @@ implementaran dispositivos Cloud en *GNS3*.
                 ```
                 sudo ufw status
                 ```
-    2. lo siguiente se que 
+    2. lo siguiente es realizar las configuraciones las ip de los servidores para que estos sean alcanzable por cada uno de los usuarios correspondiente, este proceso es similar al de las maquinas virtuales.
+        - Como primer paso debemos irno a la parte superior donde se encuentra la bateria y se nos desplegaran las redes disponibles, en este caso debemos de configurar la segunda red disponible dando en wired setting, o configuracion de propiedades, tal y como se muestra en la siguiente imagen.
+             <p align="center">
+             <img src="./Practica2/capturas/ip1.png" width="550" title="hover text">
+             </p>
+        - Como siguiente paso debemos pulsar sobre la imagen de tuerca de la segunda red que se muestra como en la siguiente iamgen.
+             <p align="center">
+             <img src="./Practica2/capturas/ip2.png" width="550" title="hover text">
+             </p>
+        - El siguiente paso se nos abrira una ventana, debemos dirigirnos al area que dice IPv4, en este apartado seleccionamos *Manual* y aqui se nos pediran tres datos, *address, netmask y gateway*, en este caso para las tres maquinas virtual se debe de configurar segun las configuraciones indicadas para cada una de las tapologias, 1a, 1b, 1c.
+             <p align="center">
+             <img src="./Practica2/capturas/ip3.png" width="550" title="hover text">
+             </p>
+
+            - valores para servidor informatica
+            ```
+            address: 192.168.19.130
+            netmask: 255.255.255.0
+            gateway: 192.168.19.24
+            ```
+            - valores para servidor ventas
+            ```
+            address: 192.168.29.130
+            netmask: 255.255.255.0
+            gateway: 192.168.29.24
+            ```
+            - valores para servidor contabilidad
+            ```
+            address: 192.168.39.130
+            netmask: 255.255.255.0
+            gateway: 192.168.39.24
+            ``` 
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
 7. Visualización de la página web desde el Host Virtual Cliente
