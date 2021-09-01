@@ -143,7 +143,7 @@ implementaran dispositivos Cloud en *GNS3*.
         <p align="center">
         <img src="./Practica2/erick/vpc.png" width="250" title="hover text">
         </p>
-    2. lo siguiente que se realiza en cada uno de las VPCs es asiganarles la ip destina a cada una estas, el procedimiento es exactamente el mismo para cada VPCS. tal y como se muestra en la imagen.
+    2. Ño siguiente que se realiza en cada uno de las VPCs es asiganarles la ip destina a cada una estas, el procedimiento es exactamente el mismo para cada VPCS. tal y como se muestra en la imagen, este proceso se realiza en la consola de cada una las VPCS.
         <p align="center">
         <img src="./Practica2/confvpc.PNG" width="550" title="hover text">
         </p>
