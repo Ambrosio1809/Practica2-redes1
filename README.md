@@ -319,11 +319,11 @@ correspondientes
          <p align="center">
         <img src="./Practica2/capturas/ventas.png" width="550" title="hover text">
         </p>
-    - ping contabilidad topologia 1c a contabilidad 1b
+    - pagina web informatica
          <p align="center">
-        <img src="../Practica2/capturas/informatica.png" width="550" title="hover text">
+        <img src="./Practica2/capturas/informatica.png" width="550" title="hover text">
         </p>
-    - ping contabilidad topologia 1b a contabilidad 1c
+    - pagina web contabilidad
          <p align="center">
         <img src="./Practica2/capturas/contabilidad.png" width="550" title="hover text">
         </p>
