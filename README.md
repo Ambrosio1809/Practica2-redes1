@@ -296,7 +296,7 @@ implementaran dispositivos Cloud en *GNS3*.
 correspondientes
     - ping informatica topologia 1c a informatica 1a
          <p align="center">
-             <img src="./Practica2/Aaron/pinginformatica1a.PNG" width="550" title="hover text">
+             <img src="./Practica2/Aaron/pingInformatica1a.PNG" width="550" title="hover text">
         </p>
     - ping contabilidad topologia 1c a contabilidad 1b
          <p align="center">
