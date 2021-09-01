@@ -134,8 +134,9 @@ implementaran dispositivos Cloud en *GNS3*.
 
             ```
             Local port: 20010
-            remote host: 10.8.0.5
-            remote port: 30010
+            Remote host: 10.8.0.5 
+            *en este caso sera el host remoto de la maquina que tenga la topologia 1a modificada*
+            Remote port: 30010
             ```
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
