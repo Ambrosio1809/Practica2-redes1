@@ -224,6 +224,44 @@ implementaran dispositivos Cloud en *GNS3*.
                 ```
                 sudo apache2ctl -v
                 ```
+             * Lo siguiente seria saber cual es el listado de servicios disponibles para si poder configurar los puertos necesarios, con el siguiente comando tal y como se muestra en la imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache4.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo ufw app list
+                ```
+             * Al saber cuales servicios estan dispobles procedemos a seleccionar ucal regla queremos habilitar, en este caso Apache  para poder mostrar nuestra pagina web, con el siguiente comando tal y como se muestra en la imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache5.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo ufw allow 'Allow'
+                ```
+               ```
+             * Al estar activa las reglas de Apache procedemos a habilitar Apache como tal, con el siguiente comando tal y como se muestra en la imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache6.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo ufw enable
+                ```
+             * Como ultimo paso verificamos si nuestro servidor esta corriendo exitosamente, con el siguiente comando tal y como se muestra en la imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache7.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo ufw status
+                ```
+            
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
 7. Visualización de la página web desde el Host Virtual Cliente
