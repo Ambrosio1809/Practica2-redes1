@@ -260,7 +260,7 @@ implementaran dispositivos Cloud en *GNS3*.
                 ```
                 sudo ufw status
                 ```
-            
+    2. lo siguiente se que 
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
 7. Visualización de la página web desde el Host Virtual Cliente
