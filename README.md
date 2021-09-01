@@ -242,7 +242,6 @@ implementaran dispositivos Cloud en *GNS3*.
                 ```
                 sudo ufw allow 'Allow'
                 ```
-               ```
              * Al estar activa las reglas de Apache procedemos a habilitar Apache como tal, con el siguiente comando tal y como se muestra en la imagen.
                 <p align="center">
                 <img src="./Practica2/capturas/apache6.png" width="550" title="hover text">
