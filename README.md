@@ -139,8 +139,31 @@ implementaran dispositivos Cloud en *GNS3*.
             Remote port: 30010
             ```
 3. Configuración de las VPCs
+    1. para poder configurar las vpc de cada uno de las topologias, 1a, 1b, 1c, lo que se debe de hacer es iniciar la maquina, y luego darle en el apartado de consola como se muestra en la siguiente imagen.
+        <p align="center">
+        <img src="./Practica2/erick/vpc.png" width="250" title="hover text">
+        </p>
+    2. lo siguiente que se realiza en cada uno de las VPCs es asiganarles la ip destina a cada una estas, el procedimiento es exactamente el mismo para cada VPCS. tal y como se muestra en la imagen.
+        <p align="center">
+        <img src="./Practica2/confvpc.png" width="550" title="hover text">
+        </p>
+
+        - comandos para configurar VPCs topologia 1a
+            ```
+            ip 192.168.29.15/24 255.255.255.0 192.168.29.24
+            ```
+        - comandos para configurar VPCs topologia 1b
+            ```
+            ip 192.168.39.15/24 255.255.255.0 192.168.39.24
+            ```
+        - comandos para configurar VPCs topologia 1c
+            ```
+            ip 192.168.19.15/24 255.255.255.0 192.168.19.24
+            ```
 4. Configuración de las máquinas virtuales
 5. Instalación y configuración de los servidores web
+    1. como primer paso, ya debemos tener las maquinas virutales instaladas de en virtual box, con el sistema operativo linux.
+
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
 7. Visualización de la página web desde el Host Virtual Cliente
