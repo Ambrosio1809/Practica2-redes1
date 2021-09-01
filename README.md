@@ -161,7 +161,7 @@ implementaran dispositivos Cloud en *GNS3*.
             ip 192.168.19.15/24 255.255.255.0 192.168.19.24
             ```
 4. Configuración de las máquinas virtuales
-    1. al igual que en las configuraciones de las VCPS, la configuracion es la misma en cada una de las maquinas virtuales, con diferencia que estas deben hacerce manualmente en el sistema operativo de linux.
+    1. al igual que en las configuraciones de las VCPS, la configuracion es la misma en cada una de las maquinas virtuales, con diferencia que estas deben hacerce manualmente en el sistema operativo de linux, cabe resaltar que ya debemos tener instalas las maquinas virtuales con sistema operativo linux.
         - Como primer paso debemos irno a la parte superior donde se encuentra la bateria y se nos desplegaran las redes disponibles, en este caso debemos de configurar la segunda red disponible dando en wired setting, o configuracion de propiedades, tal y como se muestra en la siguiente imagen.
              <p align="center">
              <img src="./Practica2/capturas/ip1.png" width="550" title="hover text">
@@ -194,7 +194,18 @@ implementaran dispositivos Cloud en *GNS3*.
             gateway: 192.168.39.24
             ```
 5. Instalación y configuración de los servidores web
-    1. como primer paso, ya debemos tener las maquinas virutales instaladas de en virtual box, con el sistema operativo linux.
+    1. como primer paso, ya debemos tener las maquinas virutales instaladas de en virtual box, con el sistema operativo linux, al igual que en las maquinas virtual, la configuracion para los servidores es la misma, con el agregado que cada uno de estos tiene instalado apache server para poder tener un servidor que nos provee de una web para poder mostrar la pagina web de cada una de las areas de la empresa.
+    
+        - Instalacion de apache server
+            * Como primer paso debemos de abrir la consola y actualizar las libreria y repositorios de linux, tal y como se muestra en la siguiente imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache1.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo apt update
+                ```
 
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
