@@ -117,7 +117,7 @@ implementaran dispositivos Cloud en *GNS3*.
 
         - Como ultimo paso para lograr que toda nuestra topologia se comunique la topologia 1a sera modificada para para que las topologias que estan distribuidas en cada uno de los integrantes del grupo, quedando de la siguiente manera.
             <p align="center">
-            <img src="./Practica2/erick/topo1amodifi.png" width="650" title="hover text">
+            <img src="./Practica2/erick/topo1amodifi.png" width="800" title="hover text">
             </p>
             
             esta topologia modificada ahora tendra 4 switch capa 2 y 3 cloud, conservando de la topologia original las dos maquinas la virtual y la VPCS.
