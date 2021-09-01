@@ -132,6 +132,11 @@ implementaran dispositivos Cloud en *GNS3*.
             <img src="./Practica2/erick/cloudtopo2.png" width="650" title="hover text">
             </p>
 
+            ```
+            Local port: 20010
+            remote host: 10.8.0.5
+            remote port: 30010
+            ```
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
 5. Instalación y configuración de los servidores web
