@@ -126,7 +126,11 @@ implementaran dispositivos Cloud en *GNS3*.
          <p align="center">
             <img src="./Practica2/erick/topo2.png" width="650" title="hover text">
         </p>
-    
+
+        - como primer paso paso para poder configurar esta topologia debemos agregar 3 maquinas virtuales, para esto debemos seguir los pasos del inciso III, anterior a este, luego de agregar las maquinas virtuales debemos configurar nuestra nube o cloud con los puertos necesarios para conectar con la topologia 1, las cuales son las siguientes.
+            <p align="center">
+            <img src="./Practica2/erick/cloudtopo2.png" width="650" title="hover text">
+            </p>
 
 3. Configuración de las VPCs
 4. Configuración de las máquinas virtuales
