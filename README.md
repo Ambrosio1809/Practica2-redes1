@@ -315,3 +315,15 @@ correspondientes
              <img src="./Practica2/sohany/ping3.jpeg" width="550" title="hover text">
         </p>
 7. Visualización de la página web desde el Host Virtual Cliente
+    - pagina web ventas
+         <p align="center">
+        <img src="./Practica2/capturas/ventas.png" width="550" title="hover text">
+        </p>
+    - ping contabilidad topologia 1c a contabilidad 1b
+         <p align="center">
+        <img src="../Practica2/capturas/informatica.png" width="550" title="hover text">
+        </p>
+    - ping contabilidad topologia 1b a contabilidad 1c
+         <p align="center">
+        <img src="./Practica2/capturas/contabilidad.png" width="550" title="hover text">
+        </p>
