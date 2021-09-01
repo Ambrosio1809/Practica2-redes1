@@ -294,4 +294,24 @@ implementaran dispositivos Cloud en *GNS3*.
             ``` 
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
+    - ping informatica topologia 1c a informatica 1a
+         <p align="center">
+             <img src="./Practica2/Aaron/pinginformatica1a.png" width="550" title="hover text">
+        </p>
+    - ping contabilidad topologia 1c a contabilidad 1b
+         <p align="center">
+             <img src="./Practica2/Aaron/pint.png" width="550" title="hover text">
+        </p>
+    - ping contabilidad topologia 1b a contabilidad 1c
+         <p align="center">
+             <img src="./Practica2/ping39.PNG" width="550" title="hover text">
+        </p>
+    - ping ventas topologia 1a a servidor ventas 
+         <p align="center">
+             <img src="./Practica2/sohany/ping2.jpeg" width="550" title="hover text">
+        </p>
+    - ping informatica topologia 1a a servidor informatica
+         <p align="center">
+             <img src="./Practica2/sohany/ping3.jpeg" width="550" title="hover text">
+        </p>
 7. Visualización de la página web desde el Host Virtual Cliente
