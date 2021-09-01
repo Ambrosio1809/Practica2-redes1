@@ -195,7 +195,7 @@ implementaran dispositivos Cloud en *GNS3*.
             ```
 5. Instalación y configuración de los servidores web
     1. como primer paso, ya debemos tener las maquinas virutales instaladas de en virtual box, con el sistema operativo linux, al igual que en las maquinas virtual, la configuracion para los servidores es la misma, con el agregado que cada uno de estos tiene instalado apache server para poder tener un servidor que nos provee de una web para poder mostrar la pagina web de cada una de las areas de la empresa.
-    
+
         - Instalacion de apache server
             * Como primer paso debemos de abrir la consola y actualizar las libreria y repositorios de linux, tal y como se muestra en la siguiente imagen.
                 <p align="center">
@@ -206,7 +206,24 @@ implementaran dispositivos Cloud en *GNS3*.
                 ```
                 sudo apt update
                 ```
-
+            * como siguiente paso debemos de instalar el apache server, con el siguiente comando tal y como se muestra en la imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache2.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo apt install apache2
+                ```
+            * Lo siguiente seria verificar la instalacion de apache server, con el siguiente comando tal y como se muestra en la imagen.
+                <p align="center">
+                <img src="./Practica2/capturas/apache3.png" width="550" title="hover text">
+                </p>
+                
+                comandos:
+                ```
+                sudo apache2ctl -v
+                ```
 6. Pings entre los clientes y entre los servidores web de los departamentos
 correspondientes
 7. Visualización de la página web desde el Host Virtual Cliente
